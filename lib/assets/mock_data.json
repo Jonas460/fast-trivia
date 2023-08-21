@@ -1,0 +1,104 @@
+{
+  "questionario": {
+    "id": 1,
+    "titulo": "Natureza brasileira",
+    "questoes": [
+      {
+        "id": 1,
+        "titulo": "Florestas brasileiras",
+        "pergunta": "Qual o nome da maior floresta brasileira?",
+        "gabarito": 4,
+        "alternativas": [
+          { "id": 1, "titulo": "Caatinga" },
+          { "id": 2, "titulo": "Cerrado" },
+          { "id": 3, "titulo": "Mata Atlântica" },
+          { "id": 4, "titulo": "Amazônica" }
+        ]
+      },
+      {
+        "id": 2,
+        "titulo": "Praias brasileiras",
+        "pergunta": "Qual estado tem a maior faixa litorânea?",
+        "gabarito": 3,
+        "alternativas": [
+          { "id": 1, "titulo": "São Paulo" },
+          { "id": 2, "titulo": "Maranhão" },
+          { "id": 3, "titulo": "Bahia" },
+          { "id": 4, "titulo": "Rio de Janeiro" }
+        ]
+      },
+      {
+        "id": 3,
+        "titulo": "Biomas do Brasil",
+        "pergunta": "Qual é o menor bioma brasileiro?",
+        "gabarito": 1,
+        "alternativas": [
+          { "id": 1, "titulo": "Pampa" },
+          { "id": 2, "titulo": "Pantanal" },
+          { "id": 3, "titulo": "Cerrado" },
+          { "id": 4, "titulo": "Caatinga" }
+        ]
+      },
+      {
+        "id": 4,
+        "titulo": "Biodiversidade",
+        "pergunta": "Qual é o animal símbolo do Brasil?",
+        "gabarito": 1,
+        "alternativas": [
+          { "id": 1, "titulo": "Onça-pintada" },
+          { "id": 2, "titulo": "Araucária" },
+          { "id": 3, "titulo": "Tucano" },
+          { "id": 4, "titulo": "Boto-cor-de-rosa" }
+        ]
+      },
+      {
+        "id": 5,
+        "titulo": "Serras brasileiras",
+        "pergunta": "Qual é a maior cadeia de montanhas do Brasil?",
+        "gabarito": 4,
+        "alternativas": [
+          { "id": 1, "titulo": "Serra do Mar" },
+          { "id": 2, "titulo": "Serra da Mantiqueira" },
+          { "id": 3, "titulo": "Serra do Espinhaço" },
+          { "id": 4, "titulo": "Serra dos Órgãos" }
+        ]
+      },
+      {
+        "id": 6,
+        "titulo": "Rios brasileiros",
+        "pergunta": "Qual é o rio mais extenso do Brasil?",
+        "gabarito": 3,
+        "alternativas": [
+          { "id": 1, "titulo": "Rio Paraná" },
+          { "id": 2, "titulo": "Rio Tocantins" },
+          { "id": 3, "titulo": "Rio Amazonas" },
+          { "id": 4, "titulo": "Rio São Francisco" }
+        ]
+      },
+      {
+        "id": 7,
+        "titulo": "Unidades de conservação",
+        "pergunta": "Qual é o maior parque nacional do Brasil?",
+        "gabarito": 1,
+        "alternativas": [
+          { "id": 1, "titulo": "Parque Nacional do Jaú" },
+          { "id": 2, "titulo": "Parque Nacional da Chapada dos Veadeiros" },
+          { "id": 3, "titulo": "Parque Nacional do Iguaçu" },
+          { "id": 4, "titulo": "Parque Nacional de Jericoacoara" }
+        ]
+      },
+      {
+        "id": 8,
+        "titulo": "Fauna brasileira",
+        "pergunta": "Qual é o maior mamífero terrestre do Brasil?",
+        "gabarito": 2,
+        "alternativas": [
+          { "id": 1, "titulo": "Onça-pintada" },
+          { "id": 2, "titulo": "Anta" },
+          { "id": 3, "titulo": "Tamanduá-bandeira" },
+          { "id": 4, "titulo": "Capivara" }
+        ]
+      }
+    ]
+  }
+}
