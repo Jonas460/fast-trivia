@@ -1,16 +1,23 @@
-# fast_trivia
+# Fast Trivia App
 
-A new Flutter project.
+Um aplicativo Flutter para responder questionários e salvar os resultados.
 
-## Getting Started
+## Requisitos
 
-This project is a starting point for a Flutter application.
+- Flutter (versão 3.11.0-1.0.pre.1)
+- Dart (versão 3.1.0-63.1.beta)
+- Android Studio ou Visual Studio Code
 
-A few resources to get you started if this is your first Flutter project:
+## Como executar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone este repositório para o seu ambiente local:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/seu-usuario/fast-trivia-app.git
+
+2. Navegue até o diretório do projeto:
+cd fast-trivia-app
+
+3. Instale as dependências usando o Flutter:
+flutter pub get
+
